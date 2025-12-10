@@ -35,3 +35,8 @@ python3 generador.py
 Estudiante de Ingeniería en Software  
 Repositorio creado con fines educativos.
 
+---
+
+## Diagrama de Flujo
+
+![Diagrama de flujo del programa](diagrama_flujo.png)
