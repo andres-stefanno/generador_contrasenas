@@ -24,7 +24,10 @@ El programa genera contraseñas aleatorias combinando los elementos seleccionado
 
 Desde la terminal:
 
+ '''bash 
 python3 generador.py
+'''
+
 
 
 ---
