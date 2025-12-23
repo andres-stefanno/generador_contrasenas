@@ -27,6 +27,7 @@ Desde la terminal:
 ```bash
 python3 generador.py
 
+
 ---
 
 ## Objetivo del Proyecto
