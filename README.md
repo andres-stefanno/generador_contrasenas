@@ -1,13 +1,13 @@
 # Generador de Contraseñas en Python
 
-Este proyecto es un **generador de contraseñas seguras** desarrollado en Python.  
+**generador de contraseñas seguras** desarrollado en Python.  
 Permite al usuario elegir la longitud de la contraseña y seleccionar si desea incluir:
 
-- ✅ Letras
-- ✅ Números
-- ✅ Símbolos
+- Letras
+- Números
+- Símbolos
 
-El programa genera contraseñas aleatorias combinando los elementos seleccionados.
+El programa genera contraseñas aleatorias combinando los elementos seleccionados segun el usuario desee.
 
 ---
 
@@ -20,23 +20,9 @@ El programa genera contraseñas aleatorias combinando los elementos seleccionado
 
 ---
 
-## Cómo ejecutar el programa
+## Cómo se ejecuta el programa
 
 Desde la terminal:
 
 ```bash
 python3 generador.py
-
----
-
-## Autor
-
-**Andrés Inapanta**  
-Estudiante de Ingeniería en Software  
-Repositorio creado con fines educativos.
-
----
-
-## Diagrama de Flujo
-
-![Diagrama de flujo del programa](diagrama_flujo.png)
